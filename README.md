@@ -3,4 +3,3 @@
 # Ekran Kaydı
 
 ![](myNotes.gif)
-# myNotes
